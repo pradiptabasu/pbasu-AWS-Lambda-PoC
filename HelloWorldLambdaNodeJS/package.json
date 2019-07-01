@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorldLambdaNodeJS",
+  "version": "0.0.1",
+  "description": "HelloWorldLambdaNodeJS",
+  "main": "HelloWorldLambdaNodeJS.js",
+  "author": "Pradipta Basu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "os": "^0.1.1",
+    "url": "^0.11.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorldLambdaChainingNodeJSJava",
+  "version": "0.0.0",
+  "description": "AWS Lambda chaining by calling lambda written in java from lambda written in nodejs",
+  "main": "HelloWorldLambdaChainingNodeJSJava.js",
+  "author": "Pradipta Basu",
+  "license": "ISC"
+}

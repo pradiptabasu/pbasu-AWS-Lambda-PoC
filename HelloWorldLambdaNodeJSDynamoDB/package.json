@@ -1,0 +1,7 @@
+{
+  "name": "HelloWorldLambdaNodeJSDynamoDB",
+  "version": "0.0.0",
+  "description": "",
+  "main": "HelloWorldLambdaNodeJSDynamoDB.js",
+  "author": ""
+}
